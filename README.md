@@ -1,0 +1,1 @@
+minimal issue demonstration with DO + SSE example. Works only first time, Refrehsing tab at least once breaks SSE connection as existing instances are not properly closed server side.
